@@ -1,6 +1,7 @@
 # Fmtime
 
 Format time in OCaml, should be used with Fmt module
+
 Exported to this github for save purpose (just in case I need it in the future)
 
 ## Usage
